@@ -1,1 +1,1 @@
-"# Hoorobes Bot Assets" 
+# Hoorobes Bot Assets 
